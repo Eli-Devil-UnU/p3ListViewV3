@@ -11,5 +11,9 @@ Mas propiedades de ListView
 ![image](https://github.com/user-attachments/assets/8264cc46-e1fd-4c51-ba17-3261e0011a5d)
 
 ## ListView con ListTitle con Texto mas Icono
-## Leading + trailing
+## Leading + Trailing
 ![image](https://github.com/user-attachments/assets/00bf3ee2-4975-4508-bcfa-a39a240adb35)
+
+## ListView con ListTitle con Texto mas Icono
+## Leading + Trailing + Subtitle
+![image](https://github.com/user-attachments/assets/1342ad12-d29c-4f4b-a0a6-b1530ea95e30)
