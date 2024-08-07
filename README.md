@@ -17,3 +17,7 @@ Mas propiedades de ListView
 ## ListView con ListTitle con Texto mas Icono
 ## Leading + Trailing + Subtitle
 ![image](https://github.com/user-attachments/assets/1342ad12-d29c-4f4b-a0a6-b1530ea95e30)
+
+## ListView con ListTitle con Texto mas Imagen de la Web
+## Leading + Trailing + Subtitle + Card
+![image](https://github.com/user-attachments/assets/3127d31f-c51d-4d16-bae8-174e727f124b)
